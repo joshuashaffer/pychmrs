@@ -9,4 +9,4 @@ crate-type = ["cdylib"]
 
 [dependencies]
 libchm = { version = "0.2.0" }
-pyo3 = { version = "0.28.3" }
+pyo3 = { version = "0.29.0" }
